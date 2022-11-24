@@ -49,7 +49,7 @@ NSMB ->
 [Electron Frontend for Hellbot](https://github.com/Stapleton/Hellbot-Electron) -> 
 [Toolkit](https://github.com/Stapleton/Toolkit) 
 
-Alloybot Modules  
+Alloybot Modules
 - [Commander](https://github.com/Stapleton/ADT-commander)
 - [Discord](https://github.com/Stapleton/ADT-discord)
 - [Discord Musicbot](https://github.com/Stapleton/ADT-discord-musicbot)
