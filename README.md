@@ -41,10 +41,13 @@ After some work into Hellbot, I started to burn out since I had rewritten the bo
 I stopped programming for a long while, and then I decided to come back to it and start a brand new project that inherits features of every previous iteration of the passion project.
 Toolkit was born. I personally think its becoming quite the showcase of my skillset for programming.
 
-
-[DJStapleton](https://github.com/Stapleton/dj-stapleton)  
-[Alloybot](https://github.com/Stapleton/Alloybot-V69)  
-[Almost Full Archive](https://github.com/Stapleton/Bot-Archive)  
+NSMB -> 
+[DJStapleton](https://github.com/Stapleton/dj-stapleton) -> 
+[Almost Full Archive](https://github.com/Stapleton/Bot-Archive) -> 
+[Alloybot](https://github.com/Stapleton/Alloybot-V69) -> 
+[Hellbot](https://github.com/Stapleton/Hellbot) & 
+[Electron Frontend for Hellbot](https://github.com/Stapleton/Hellbot-Electron) -> 
+[Toolkit](https://github.com/Stapleton/Toolkit) 
 
 Alloybot Modules  
 - [Commander](https://github.com/Stapleton/ADT-commander)
@@ -55,9 +58,6 @@ Alloybot Modules
 - [Twitch API](https://github.com/Stapleton/ADT-twitch-api-library)
 - [Website/panel](https://github.com/Stapleton/ADT-alloybot.io)
 
-[Hellbot](https://github.com/Stapleton/Hellbot)  
-[Electron Frontend for Hellbot](https://github.com/Stapleton/Hellbot-Electron)  
-[Toolkit](https://github.com/Stapleton/Toolkit)  
 
 If you made it this far, props to you. Thanks for reading all my rambling :)
 <!---
