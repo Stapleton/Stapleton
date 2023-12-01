@@ -1,4 +1,4 @@
-# 👋 Yo! I’m Stapleton, I am a 23 y/o Self-Taught Computer Scientist
+# 👋 Yo! I’m Stapleton, I am a 24 y/o Self-Taught Computer Scientist
 ### If doing it and learning it makes the dopamine go brr, then im gonna do it and learn it.
 
 ### Some Interests
