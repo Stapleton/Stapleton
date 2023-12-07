@@ -1,36 +1,20 @@
 # 👋 Yo! I’m Stapleton, I am a 24 y/o Self-Taught Computer Scientist
 ### If doing it and learning it makes the dopamine go brr, then im gonna do it and learn it.
 
-### Some Interests
-- Climbing mountains
-- Riding E-Scooters
-- Recreational Intoxication
-- 3D Printing
-- Making Smart Home Automations
-- Playing [vidya games](https://games.stapleton.pw)
-- Audio/Video Home Theatre setups
-- Building jank PCs
-- Working on vehicles
-- and a hell of a lot more...
+I tried turning on the home computer at 2 years old. Filled up my first hard drive at 4.
+Learned how audio drivers matter at 5. Spun up my first minecraft server at 9.
+Installed and experimented with Ubuntu at 12. Started learning HTML/CSS/JS at 13.
+Started my first 3 coding projects and working with the IT Admin in my High School at 15.
+Was a non-profit Server Administrator for Twitch Streamers at 16. Had 9 clients at peak.
+Built my first computer at 17. At 18 I started working with Java, C# and Typescript.
+Built 3 more computers at 19. Had my first long term stable homelab running on enterprise equipment at 20.
 
-### My Passion Project
-NSMB -> 
-[DJStapleton](https://github.com/Stapleton/dj-stapleton) -> 
-[Almost Full Archive](https://github.com/Stapleton/Bot-Archive) -> 
-[Alloybot](https://github.com/Stapleton/Alloybot-V69) -> 
-[Hellbot](https://github.com/Stapleton/Hellbot) & 
-[Electron Frontend for Hellbot](https://github.com/Stapleton/Hellbot-Electron) -> 
-[Toolkit](https://github.com/Stapleton/Toolkit) 
+Today at 24, I am learning proper CyberSec practices,
+teaching my college friends since their paid classes aren't doing a good job,
+writing tools for video games, learning how to make games with Godot,
+and blueprinting a new project for sending controller inputs over the local network.
 
-Alloybot Modules
-- [Commander](https://github.com/Stapleton/ADT-commander)
-- [Discord](https://github.com/Stapleton/ADT-discord)
-- [Discord Musicbot](https://github.com/Stapleton/ADT-discord-musicbot)
-- [MongoDB](https://github.com/Stapleton/ADT-mongodb)
-- [Core](https://github.com/Stapleton/ADT-alloybot-core)
-- [Twitch API](https://github.com/Stapleton/ADT-twitch-api-library)
-- [Website/panel](https://github.com/Stapleton/ADT-alloybot.io)
-
+Does that count as a prodigy?
 
 <!---
 Stapleton/Stapleton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
